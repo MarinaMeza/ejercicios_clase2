@@ -15,7 +15,7 @@
             return $this->_color;
         }
 
-        public function SetColor($color)
+        public function SetColor($color="Azul")
         {
             $this->color=$color;
         }
